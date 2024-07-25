@@ -1,0 +1,82 @@
+
+Pramod Working the Features like:
+
+FEATURE : Changes To Be done with the Company of the Us Pathway methods for Better leads generation and making them successful.
+	
+	  Suggesting the students to improving the skills and reaching the pathways that were useful.
+		
+	  Recommending different Marketing strategies and Different collaborations.
+
+
+
+
+
+17th July Received dataset from the LPU Manager
+
+1) Study of the dataset columns and the connections that are between the datasheets and Raised different confused doubts
+
+estimating the columns and making different plans to solve the issues.
+
+19 July 2024
+
+2) Had Meeting with Futurense Business Analysts and got clarified the process of working of the datasheets 
+
+20 July 2024
+
+3) Created an action plan and integrated it with team work plan and submitted 
+
+4) Connected with the team and clarified the working doubts.
+
+5) Started the data cleaning of the datasheet
+	
+   Describing the data									
+												                                  
+   Checking the null values using isnull.
+
+   Creating different tables of missing and distribution of values like mean, median etc
+
+21 July 2024
+
+   Checking whether any negative experiences through the  datasheets columns.
+
+   Encoding the categorical variables into numerical variables for analysis.
+   
+   Checking the outliers range with different methods.
+ 
+   Checking the skewness of the columns, how different they were with normal range
+
+   Tried Normalising the outliers with front and backward fill
+	
+   checking the outliers with - 
+     	winsorizing
+	z-score
+	IQR method
+	Isolation Forest
+	Local Outlier Factor
+	log transformation
+	sqrt transformation
+
+	Density based noise checking
+
+At last Winsorizing method will be applicable for reducing effect of the outliers in the distribution of the data
+
+22 July 2024
+
+Submitted Individual action plan.
+
+Checking the distribution of the data with density plot, boxplot , bargraph , Heat Map.
+
+After analysis checking why the most circulated camapign was not having enough money spent?
+
+23  and 24 july 2024
+
+Why the most money spent campaign hasn't generated the most click through rate and leads? etc..
+
+Using different Ml models like anova and encoding the typical values.
+
+Using BackTracking method with application candiadate tracker and making the analysis using lead Id and removing lead_id
+
+Feature engineering has to be completed and after that eda plotting will be going on.
+
+
+    
